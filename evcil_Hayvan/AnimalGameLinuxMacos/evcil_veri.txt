@@ -1,0 +1,3 @@
+Karabas,Kopek,60,60
+Mavi,Kedi,60,60
+Zeytin,Kedi,60,60
